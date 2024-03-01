@@ -97,7 +97,6 @@ pids
 # ignore venv files
 *.pyc
 *venv*
-*findme/*
 *myenv/*
 
 # ignore vscode files
