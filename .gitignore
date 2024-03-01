@@ -69,6 +69,7 @@ npm-debug.log*
 # ignore local project files
 draft.txt
 draft.md
+test.*
 
 # ignore runtime data
 pids
