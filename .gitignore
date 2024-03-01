@@ -24,6 +24,7 @@ build/Release
 *.zip
 
 # ignore dependency directories
+node_modules
 node_modules/
 jspm_packages/
 
